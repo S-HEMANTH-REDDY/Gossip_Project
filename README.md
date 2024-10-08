@@ -39,7 +39,9 @@ Push-Sum Algorithm:
 How to Run
 
 To run the project, use the following format in the command line:
+
 project2 algorithm numNodes topology 
+
 Where:
         •	algorithm: One of gossip or push-sum.
 	•	numNodes: The number of actors involved.
