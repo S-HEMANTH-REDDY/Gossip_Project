@@ -43,6 +43,7 @@ To run the project, use the following format in the command line:
 project2 algorithm numNodes topology 
 
 Where:
+
         •	algorithm: One of gossip or push-sum.
 	•	numNodes: The number of actors involved.
 	•	topology: One of full, 3D, line, or imp3D.
